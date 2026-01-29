@@ -1,5 +1,5 @@
 <h1 align="center">Hello World 👋, My name is Osama Sultan</h1>
-<h3 align="center">A junior web developer from Yemen </h3>
+<h3 align="center">Full-Stack Developer Laravel | React </h3>
 <br></br>
 
 
@@ -7,13 +7,9 @@
 
 - 🏫 I have a computer science degree from **Sana'a University**
 
-- 🌱 I’m currently learning **React.js** - **Laravel Framework**
+- 🌱 I’m currently learning **Laravel Framework** - **React.js** 
 
-- 👨‍💻 I’m looking to collaborate on **Open Source Projects**
-
-- 🤔 I’m currently open for a new job opportunity, this is [My Resume])
-
-- 📫 How to reach me **engosamasultan@gmail.com**
+- 👨‍💻 I’m currently open for a new job opportunity, this is [My Resume])
 
 - 🤓 Always learning new things
 
@@ -25,8 +21,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/osama-sultan-aa9502344/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ zainb-mohamed-07b79b2a2" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/29961883/osama-sultan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/23334389/zainb-mohamed" height="30" width="40" /></a>
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/osama-sultan-aa9502344)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/osamaBenSultan)
+[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](engosamasultan@gmail.com)
+
 </p>
 
 ---
@@ -35,64 +34,88 @@
 <p align="left">
 
 <!-- os -->
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a>
-
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a> 
-
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a>
-
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
-  </a>
-
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
-  </a> 
-
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
-  </a> 
-
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-  </a>
-
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> 
-  </a> 
-
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a> 
-
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
-  </a> 
-
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a> 
+ ### 🚀 Frontend:
+  ![JavaScript](https://img.shields.io/badge/javascript-blue?logo=javascript)  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![Bootstrap CSS](https://img.shields.io/badge/Bootstrap%20CSS-06B6D4?style=flat&logo=bootstrap&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
  
-  <a href="https://laravel.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" alt="laravel" width="40" height="40"/> 
-  </a>
+<!-- - ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white) -->
+
+
+<!-- - ![Framer Motion](https://img.shields.io/badge/Framer%20Motion-black?style=flat&logo=framer&logoColor=white)-->
+
+### 🔗 Backend:
+<!-- - ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) -->
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20?style=flat&logo=laravel&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+<!-- ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white) -->
+<!-- ![Strapi](https://img.shields.io/badge/Strapi-8E75FF?style=flat&logo=strapi&logoColor=white) -->
+
+### ⚙️ Dev Tools:
+- ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-20232A?style=flat&logo=github&logoColor=white)
   
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> 
-  </a>
+- ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) ![PhpStorm](https://img.shields.io/badge/PhpStorm-007ACC?style=flat&logo=phpstorm&logoColor=white)
+  
 <!-- os -->
 
 
 
-
-
 </p>
+
+---
+
+<h3 align="left">⚙️ Current Projects</h3>
+<p align="left">
+
+
+<!-- - 🦞 **[Clawdbot](https://github.com/clawdbot/clawdbot)** - the AI that actually does things
+- 🚇 **[VibeTunnel](https://github.com/amantus-ai/vibetunnel)** - Turn any browser into your terminal; command agents from the road (vt.sh)
+- 🎚️ **[CodexBar](https://github.com/steipete/CodexBar)** - May your tokens never run out—keep agent limits in view.
+- 🚀 **[Peekaboo](https://github.com/steipete/Peekaboo)** - Lightning-fast macOS screenshots & GUI automation (MCP + CLI)
+- 👉 **[summarize](https://github.com/steipete/summarize)** - Point at any URL or file. Get the gist.
+- 🚦 **[RepoBar](https://github.com/steipete/RepoBar)** - CI, PRs, releases—at a glance
+- 🧭 **[go-cli](https://github.com/steipete/gogcli)** - Google in your terminal (`gog`) (Gmail, Calendar, Drive, Contacts, Tasks, Sheets, Docs, Slides, People)
+- 👻 **[Poltergeist](https://github.com/steipete/poltergeist)** - The ghost that keeps your builds fresh—universal hot reload & file watcher
+- 🗃️ **[wacli](https://github.com/steipete/wacli)** - WhatsApp CLI: sync, search, send
+- 🗣️ **[sag](https://github.com/steipete/sag/)** - ElevenLabs speech with mac-style `say` UX; streams to speakers by default
+- 🎙️ **[Brabble](https://github.com/steipete/brabble)** - Wake-word voice daemon for macOS; transcribes locally and fires configurable hooks
+- 🔊 **[sonoscli](https://github.com/steipete/sonoscli)** - Control Sonos speakers: discover, group, queue, play Spotify
+- 📣 **[ElevenLabsKit](https://github.com/steipete/ElevenLabsKit)** - ElevenLabs voices on tap—SwiftPM-friendly, streaming-native.
+- 📍 **[goplaces](https://github.com/steipete/goplaces)** - Google Places API (New) client + CLI
+- 🧲 **[gifgrep](https://github.com/steipete/gifgrep)** - GIF search for terminals: CLI output + TUI with inline previews
+- 📸 **[camsnap](https://github.com/steipete/camsnap)** - RTSP snapshots, clips, motion CLI (Tapo-friendly)
+- 🎧 **[spogo](https://github.com/steipete/spogo)** - Spotify, but make it terminal
+- 🛵 **[ordercli](https://github.com/steipete/ordercli)** - Your takeout timeline, in the terminal
+- 🫐 **[blucli](https://github.com/steipete/blucli)** - Play, group, and automate BluOS
+- 🤖 **[macOS Automator MCP](https://github.com/steipete/macos-automator-mcp)** - Your Friendly Neighborhood RoboScripter™
+- 🧑‍💻 **[Claude Code MCP](https://github.com/steipete/claude-code-mcp)** - One-shot MCP server for Claude Code (an agent inside your agent)
+- 🧙‍♂️ **[AXorcist](https://github.com/steipete/AXorcist)** - The power of Swift compels your UI to obey!
+- 🕸️ **[Tachikoma](https://github.com/steipete/Tachikoma)** - Modern Swift AI SDK
+- 🎚️ **[CodexBar](https://github.com/steipete/CodexBar)** - May your tokens never run out—keep agent limits in view.
+- 🧮 **[tokentally](https://github.com/steipete/tokentally)** - One tiny lib for LLM token + cost math
+- ⏳ **[osc-progress](https://github.com/steipete/osc-progress)** - Tiny lib for OSC 9;4 terminal progress.
+- ✂️ **[Trimmy](https://github.com/steipete/Trimmy)** - “Paste once, run once” — flattens multi-line shell snippets so they execute
+- 🖥️ **[TauTUI](https://github.com/steipete/TauTUI)** - Swift-native TUI that won’t tear
+- 🎛️ **[Commander](https://github.com/steipete/Commander)** - Swift-first parsing, zero forks
+- 📝 **[remindctl](https://github.com/steipete/remindctl)** - Apple Reminders from the terminal
+- 🧳 **[mcporter](https://github.com/steipete/mcporter)** - Call MCPs from TypeScript or package them as a CLI
+- 🍪 **[Sweet Cookie](https://github.com/steipete/sweet-cookie)** - Inline-first browser cookie extraction—no native addons
+- 🧁 **[SweetCookieKit](https://github.com/steipete/SweetCookieKit)** - Native macOS cookie extraction for Safari, Chromium, and Firefox
+- 🍭 **[sweetlink](https://github.com/steipete/sweetlink)** - Playwright vibes in your current tab; close the agent loop
+- 🐦 **[bird](https://github.com/steipete/bird)** - Fast X CLI for tweeting, replying, and reading
+- 🧿 **[oracle](https://github.com/steipete/oracle)** - Whispering your tokens to the silicon sage
+- 👀 **[tmuxwatch](https://github.com/steipete/tmuxwatch)** - Lightweight TUI to watch tmux sessions
+- 📜 **[agent-rules](https://github.com/steipete/agent-rules)** - Shared rules/knowledge for coding with agents
+- 🎨 **[Markdansi](https://github.com/steipete/Markdansi)** - Wraps, colors, links—no baggage.
+- 📖 **[llm.codes](https://github.com/amantus-ai/llm-codes)** - Transform developer documentation for AI agents
+- 📊 **[Stats Store](https://github.com/steipete/stats-store)** - Fast, privacy-first analytics for Sparkle (stats.store)
+- 🧽 **[Demark](https://github.com/steipete/demark)** - Mark My Words, HTML to Markdown!
+- 🛏️ **[eightctl](https://github.com/steipete/eightctl)** - Control your sleep, from the terminal
+- 💬 **[imsg](https://github.com/steipete/imsg)** - Send, read, stream iMessage & SMS
+ -->
+</p>
+
+---
+
+<h3 align="left">📘Legacy Works</h3>
+<p align="left">
 
 ---
 # 📊 GitHub Stats:
@@ -103,9 +126,5 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=osamaBenSultan&limit=5&theme=merko&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=osamaBenSultan&icon=0&color=0)](https://visitcount.itsvg.in)
 
