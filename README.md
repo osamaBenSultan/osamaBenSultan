@@ -22,9 +22,11 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/osama-sultan-aa9502344)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/osama-sultan-aa9502344)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/osamaBenSultan)
 [![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:engosamasultan@gmail.com)
+
+
 
 </p>
 
@@ -35,7 +37,9 @@
 
 <!-- os -->
  ### 🚀 Frontend:
-  ![JavaScript](https://img.shields.io/badge/javascript-blue?logo=javascript)  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![Bootstrap CSS](https://img.shields.io/badge/Bootstrap%20CSS-06B6D4?style=flat&logo=bootstrap&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+ 
+ ![JavaScript](https://img.shields.io/badge/JavaScript-FFFFFF?style=flat&labelColor=F7DF1E&logo=javascript&logoColor=white)  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![Bootstrap CSS](https://img.shields.io/badge/Bootstrap%20CSS-7952B3?style=flat&logo=bootstrap&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-CC6699?style=flat&logo=sass&logoColor=white)  ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+  
  
 <!-- - ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white) -->
 
@@ -51,7 +55,7 @@
 ### ⚙️ Dev Tools:
 - ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-20232A?style=flat&logo=github&logoColor=white)
   
-- ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) ![PhpStorm](https://img.shields.io/badge/PhpStorm-007ACC?style=flat&logo=phpstorm&logoColor=white)
+- ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) ![PhpStorm](https://img.shields.io/badge/PhpStorm-000000?style=flat&logo=phpstorm&logoColor=white)
   
 <!-- os -->
 
@@ -63,6 +67,7 @@
 
 <h3 align="left">⚙️ Current Projects</h3>
 <p align="left">
+-🏫
 
 
 <!-- - 🦞 **[Clawdbot](https://github.com/clawdbot/clawdbot)** - the AI that actually does things
@@ -112,11 +117,10 @@
  -->
 </p>
 
----
-
+<!-- ---
 <h3 align="left">📘Legacy Works</h3>
 <p align="left">
-
+</p> -->
 ---
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=osamaBenSultan&theme=merko&hide_border=true&include_all_commits=true&count_private=false)<br/>
