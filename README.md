@@ -38,7 +38,7 @@
 <!-- os -->
  ### 🚀 Frontend:
  
- ![JavaScript](https://img.shields.io/badge/JavaScript-FFFFFF?style=flat&labelColor=F7DF1E&logo=javascript&logoColor=white)  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![Bootstrap CSS](https://img.shields.io/badge/Bootstrap%20CSS-7952B3?style=flat&logo=bootstrap&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-CC6699?style=flat&logo=sass&logoColor=white)  ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+ ![JavaScript](https://img.shields.io/badge/JavaScript-FFFFFF?style=flat&labelColor=F7DF1E&logo=javascript&logoColor=white)  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![Bootstrap CSS](https://img.shields.io/badge/Bootstrap%20CSS-7952B3?style=flat&logo=bootstrap&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-CC6699?style=flat&logo=sass&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) 
   
  
 <!-- - ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white) -->
@@ -48,7 +48,7 @@
 
 ### 🔗 Backend:
 <!-- - ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) -->
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20?style=flat&logo=laravel&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20?style=flat&logo=laravel&logoColor=white) ![Livewire](https://img.shields.io/badge/livewire-c05a89?style=flat&logo=livewire&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 <!-- ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white) -->
 <!-- ![Strapi](https://img.shields.io/badge/Strapi-8E75FF?style=flat&logo=strapi&logoColor=white) -->
 
